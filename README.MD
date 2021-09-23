@@ -107,6 +107,7 @@ make sure your tests are in the `./test` folder
 ## Smart contact debugging
 
 `import "hardhat/console.sol";`
+
 you can now use `console.log` in your solidity scripts
 
 ---
