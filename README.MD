@@ -12,7 +12,8 @@ one of its key feature is a great debugging experience thanks to console log sta
 
 ---
 
-before you learn hardhat I recommend to first learn truffle
+before you learn hardhat I recommend to first learn truffle.
+
 fortunanlly I have a repo here: https://github.com/Fylls/learning-truffle
 
 ---
