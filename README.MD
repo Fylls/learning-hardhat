@@ -6,8 +6,9 @@
 
 </div>
 
-have you heard of a framework called hardhat?
-it's a new framework for smart contract that is getting super popular one of its key feature is a great debugging experience thanks to console log statement that you can use in your smart contract like in javascript.
+have you heard of a framework called hardhat? it's a new framework for smart contract that is getting super popular.
+
+one of its key feature is a great debugging experience thanks to console log statement that you can use in your smart contract like in javascript.
 
 ---
 
